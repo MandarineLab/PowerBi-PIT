@@ -1,5 +1,5 @@
 # :octocat: Financial Data Visualization - Power BI Practice
-🔎 This report analyzes Instagram engagement metrics for Económica from June to August. Key metrics include likes and scope, broken down by Económica's departments and sub-sections. 
+🔎 This report, created as a Power BI course assignment, analyzes the financial performance of a fictional company. It includes year-over-year and month-over-month profit analysis by country, product segment sales, and key performance indicators such as costs, total sales, total profit, and profit margin.
 
 https://app.powerbi.com/view?r=eyJrIjoiZDkwNzcxZjctZTI5YS00MThlLThkYjYtNmE1MWMzOWIxODRhIiwidCI6ImQwMGQ4MDc3LTkwMjEtNDc1YS1iMzE3LTQ3M2U5YjcyN2UwYiIsImMiOjR9
 
